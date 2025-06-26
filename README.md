@@ -52,4 +52,4 @@ The analysis offers useful business insights that can help improve customer targ
 
 **Kunal Kumar**  
 PGDM in Business Analytics & Marketing  
-[LinkedIn](#) *(add your link if you want)
+
